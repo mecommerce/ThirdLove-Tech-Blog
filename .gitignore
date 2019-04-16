@@ -143,3 +143,4 @@ ENV/
 *.csv
 *.pkl
 
+.DS_Store
