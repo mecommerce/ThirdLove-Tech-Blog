@@ -28,7 +28,7 @@ more-itertools==7.0.0
 nbconvert==5.5.0
 nbformat==4.4.0
 notebook==5.7.8
-numpy==1.16.4
+numpy==1.22.0
 packaging==19.0
 pandas==0.22.0
 pandocfilters==1.4.2
